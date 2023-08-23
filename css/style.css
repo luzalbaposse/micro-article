@@ -1,0 +1,46 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+}
+.autor{
+  margin: 0 auto;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;  
+  font-style: italic;
+  max-width: 600px;
+  padding: 10px 0;
+  text-align: justify;
+}
+.text {
+  text-align: justify;
+  margin: 25px auto;
+  max-width: 600px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.chart {
+  margin: 25px auto;
+  max-width: 600px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: justify;
+  margin: 25px auto;
+}
+
+.title{
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 10px 0;
+
+}
+.header h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  margin: 25px auto;
+}
