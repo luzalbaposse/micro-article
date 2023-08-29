@@ -2,7 +2,22 @@
   max-width: 600px;
   margin: 50px auto;
 }
-.autor{
+.autor.container {
+  display: inline-flex;
+  align-items: center;
+  /* Bottom and top padding */
+  padding: 0px 0;
+  
+}
+
+.autor img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%; /* Esto hace que la imagen sea circular */
+  margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+
+.autor h3.autor {
   margin: 0 auto;
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;  
@@ -11,6 +26,7 @@
   padding: 10px 0;
   text-align: justify;
 }
+
 .text {
   text-align: justify;
   margin: 25px auto;
